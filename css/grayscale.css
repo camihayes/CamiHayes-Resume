@@ -424,3 +424,8 @@ body {
 li{
 	list-style-type: none;
 }
+
+
+#ruby a:hover {
+    color:#C23D3D;
+}
